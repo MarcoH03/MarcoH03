@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying physics at the university of havana 
+- 🌱 I’m learning web development for a personal project
+
+
 <!--
 **MarcoH03/MarcoH03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
